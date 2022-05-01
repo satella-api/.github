@@ -1,6 +1,6 @@
 # Satella API
 
-a modular spigot plugin based on [Spring Boot Spigot Starter](https://github.com/Alan-Gomes/mcspring-boot)
+a modular spigot plugin based on [Spring Boot Spigot Starter](https://github.com/Alan-Gomes/mcspring-boot) for Paper and Spigot 1.8.x
 
 ## Developed with:
 ![Java](https://img.shields.io/badge/Java-0078D6?style=for-the-badge&logo=java&logoColor=white)
